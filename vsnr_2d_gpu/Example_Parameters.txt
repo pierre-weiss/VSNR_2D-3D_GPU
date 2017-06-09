@@ -1,0 +1,29 @@
+#VSNR-2D
+Iteration_Number: 20
+Num_Block: auto
+Log: true
+***
+Filter_Type: Gabor
+Noise_Level: 1
+sigmax: 50.0
+sigmay: 0.1
+Angle: 0.0
+***
+Filter_Type: Gabor
+Noise_Level: 1
+sigmax: 0.1
+sigmay: 100.0
+Angle: -5.0
+***
+Filter_Type: Gabor
+Noise_Level: 1
+sigmax: 0.1
+sigmay: 100.0
+Angle: 0
+***
+Filter_Type: Gabor
+Noise_Level: 1
+sigmax: 0.1
+sigmay: 100.0
+Angle: -10
+***
