@@ -1,0 +1,9 @@
+COMPILED WITH
+/usr/local/cuda-9.0/bin/nvcc -o libvsnr2d.so -lcufft -lcublas --compiler-options "-fPIC" --shared vsnr2d.cu
+/usr/local/cuda-9.0/bin/nvcc -o libvsnr3d.so -lcufft -lcublas --compiler-options "-fPIC" --shared vsnr3d.cu
+
+SYSTEM
+Ubuntu 16.04
+
+CUDA TOOLKIT
+cuda_9.0.176_384.81_linux
