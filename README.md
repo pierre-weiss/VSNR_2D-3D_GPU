@@ -10,7 +10,7 @@ This repository contains the sources and executables of the GPU based denoising 
 IMPORTANT NOTE: you will be able to use this plugin only with NVIDIA Graphics cards since it is based on the CUDA programming language.
 
 - For Windows 64 bits users:
-0) make sure that CUDA 8.0 is installed
+0) to used precompiled dlls, make sure that CUDA 8.0 is installed
 1) create a repository ~Fiji\plugins\VSNR, where ~Fiji indicates your Fiji repository.
 2) copy the contents of precompiled\ in ~Fiji\plugins\VSNR
 
