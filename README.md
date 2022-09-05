@@ -16,3 +16,7 @@ IMPORTANT NOTE: you will be able to use this plugin only with NVIDIA Graphics ca
 
 - For Linux & Mac & Windows 32 bits users:
 you will need to recompile the library for your NVIDIA graphics card. Please follow the instructions given in vsnr_2D_gpu/README.txt and  vsnr_3D_gpu/README.txt.
+
+- Note: You will find Python versions of the software here
+https://github.com/patquem/pyvsnr         (using CUPY)
+https://github.com/CEA-MetroCarac/pyVSNR  (using CUDA)
